@@ -18,3 +18,5 @@ export { default as Tab } from './src/tab.js'
 export { default as Toast } from './src/toast.js'
 export { default as Tooltip } from './src/tooltip.js'
 export { default as blabla} from './'
+export {} 
+
